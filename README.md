@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎯 I’m currently working on improving my skills in Python development.<br>🤝 I’m looking to collaborate on Python-based projects, especially in web development or automation.<br>🙌 I’m looking for help with advanced Python concepts and real-world project implementations.<br>📚 I’m currently learning Python development, focusing on backend technologies and frameworks.<br>💡 Ask me about Python development, UI/UX design, problem-solving, and my experience as a BTech student at ABESIT Ghaziabad.<br>🚀 Fun fact: I enjoy developing web applications using Python and JavaScript!
+💻 I’m focused on strengthening my skills in Python, Machine Learning, and backend development.<br>
+🤝 Open to collaborating on Python-based applications, AI-driven systems, and backend solutions.<br>
+🙌 Actively learning and exploring AI/ML concepts, LLMs, data processing, and real-world implementations.<br>💡 Ask me about Python development, UI/UX design, problem-solving, and my experience as a BTech student at ABESIT Ghaziabad.<br>
 
 
 ## 🌐 Socials:
